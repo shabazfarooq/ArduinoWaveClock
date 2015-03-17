@@ -1,6 +1,6 @@
 TITLE
 -----
-    PHP Web Analytics
+    Arduino Wave Clock
 
 AUTHOR
 ------
